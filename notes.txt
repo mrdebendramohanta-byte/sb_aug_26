@@ -1,0 +1,11 @@
+T, Optional<T>  findBy-> extract one single entity
+
+List<T>, List<T>,page<T>,Collection<T> findAllBy-> extract multile entities
+
+ Long,long countBy-> 
+
+ void deleteBy->
+
+
+
+<return type> findBy<perpertyName><Predicate keywords>(List of params);
